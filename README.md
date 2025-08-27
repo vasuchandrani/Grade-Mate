@@ -84,7 +84,6 @@ It empowers professors with smart evaluation tools, gives students instant acces
 > 🚧 This web is under development. The vision is clear and development is ongoing.
 
 ---
-<br>
 ### 🙌 Made with passion for students, by a student who believes in collaboration over competition. ✨
 
 Built by **Vatsal Chandrani** – turning ideas into digital solutions.  
