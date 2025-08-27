@@ -73,18 +73,18 @@ GradeMate ensures **accuracy, transparency, and convenience** for all users, mak
 
 ---
 
-## 🛠️ Current Status
-
-> 🚧 This web is under development. The vision is clear and development is ongoing.
-
----
-
 ## 🎯 Why GradeMate?
 **GradeMate** bridges the gap between traditional exams and modern digital systems.  
 It empowers professors with smart evaluation tools, gives students instant access to results and feedback, and allows HoDs to maintain full academic oversight efficiently.
 
 ---
 
+## 🛠️ Current Status
+
+> 🚧 This web is under development. The vision is clear and development is ongoing.
+
+---
+<br>
 ### 🙌 Made with passion for students, by a student who believes in collaboration over competition. ✨
 
 Built by **Vatsal Chandrani** – turning ideas into digital solutions.  
